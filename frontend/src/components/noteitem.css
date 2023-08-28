@@ -1,0 +1,9 @@
+.card-body{
+    -ms-overflow-style:none;
+}
+::-webkit-scrollbar {
+    width: 0;
+  }
+  
+  /* Track */
+ 
